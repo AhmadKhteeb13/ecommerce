@@ -13,3 +13,11 @@ customer app:
 ![-5969984922485637516_121](https://github.com/AhmadKhteeb13/ecommerce/assets/89486166/f18f6055-574a-4964-a357-a94234648909)
 ![-5969984922485637517_121](https://github.com/AhmadKhteeb13/ecommerce/assets/89486166/c26c7f0a-558f-4919-b936-3244fcdc94cb)
 ![-5969984922485637518_121](https://github.com/AhmadKhteeb13/ecommerce/assets/89486166/49376b2f-0126-4abe-88db-422a2174ab50)
+
+picker app:
+![-5969984922485637528_121](https://github.com/AhmadKhteeb13/ecommerce/assets/89486166/cf7c5b06-6dc8-4909-9408-b24f5950e70c)
+![-5983562289065868921_121](https://github.com/AhmadKhteeb13/ecommerce/assets/89486166/0a017b43-c5de-414d-ae19-fdf2216df5f4)
+
+shipping app:
+![-5969984922485637545_121](https://github.com/AhmadKhteeb13/ecommerce/assets/89486166/7e1d8f04-d227-48b3-a5f3-7d9c82dc09fd)
+![-5969984922485637544_121](https://github.com/AhmadKhteeb13/ecommerce/assets/89486166/8e0a617c-4eb0-45db-a94c-3d81acf91535)
